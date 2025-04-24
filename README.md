@@ -87,7 +87,7 @@ the-photos-we-never-took/
 
 If you’re hiring for AI/generative projects — or this story resonates with you — I’d love to talk.
 
-- 💼 [LinkedIn](www.linkedin.com/in/wes-bailey-93a8ab35b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wes-bailey-93a8ab35b/)
 - 📧 wes.bailey10@gmail.com
 ---
 
