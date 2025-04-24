@@ -1,0 +1,23 @@
+# Node and frontend build artifacts
+node_modules/
+.next/
+dist/
+build/
+
+# Model files and checkpoints
+*.safetensors
+*.ckpt
+*.pth
+
+# LoRA training output and logs
+ai-model/logs/
+ai-model/lora_output/
+
+# Python cache
+__pycache__/
+
+# System files
+.DS_Store
+
+# Environment files
+.env
